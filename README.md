@@ -17,7 +17,8 @@ Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-start
 - [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) - 官方Pico入门指南。
 - [Pico SDK C/C++](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) - Pico SDK C / C ++-官方Pico C/C++ SDK文档。
 - [Pico SDK MicroPython](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf) - Pico SDK MicroPython-官方MicroPython SDK文档。
-- [Pico Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) - Pico Doxygen-官方的"Raspberry Pi Pico的API级别Doxygen文档"。- [Pinout Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf) - 树莓派pico官方引脚图。
+- [Pico Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) - Pico Doxygen-官方的"Raspberry Pi Pico的API级别Doxygen文档"。
+- [Pinout Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf) - 树莓派pico官方引脚图。
 - [Fritzing Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-Fritzing.fzpz) - Fritzing图表-官方的Pico Fritzing图表。
 - [Design Files](https://datasheets.raspberrypi.org/pico/RPi-Pico-R3-PUBLIC-20200119.zip) - 设计文件-官方的Pico硬件设计文件。
 - [Pico Datasheet](https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf) - Pico数据手册-官方Pico数据手册。
@@ -26,16 +27,16 @@ Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-start
 
 ## 软件与工具
 
-- [Pico 示例](https://github.com/raspberrypi/pico-examples) - Raspberry Pi Pico SDK examples.
-- [Pico MicroPython示例](https://github.com/raspberrypi/pico-micropython-examples) - Raspberry Pi Pico MicroPython examples.
-- [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) - Official Raspberry Pi Pico SDK repository.
-- [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) - A BASH script for setting up the Pico C++ toolchain on your device.
-- [Picotool](https://github.com/raspberrypi/picotool) - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.' 
-- [Picoprobe](https://github.com/raspberrypi/picoprobe) - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
-- [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
-- [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE support for the Pico.
-- [Pico-Stub](https://github.com/cpwood/Pico-Stub) - MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'
-- [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
+- [Pico 示例](https://github.com/raspberrypi/pico-examples) - Raspberry Pi Pico SDK示例。
+- [Pico MicroPython示例](https://github.com/raspberrypi/pico-micropython-examples) - Raspberry Pi Pico MicroPython示例。
+- [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) - 官方Raspberry Pi Pico SDK存储库。
+- [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) - 一个BASH脚本，用于在您的设备上设置Pico C ++工具链。
+- [Picotool](https://github.com/raspberrypi/picotool) - Picotool是一种用于检查RP2040二进制文件并在处于BOOTSEL模式时与RP2040设备进行交互的工具。
+- [Picoprobe](https://github.com/raspberrypi/picoprobe) - 可以使用一个Raspberry Pi Pico调试另一个Pico。 这可以通过picoprobe实现，该应用程序允许Pico充当USB→SWD和UART转换器。 
+- [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) - 强制将Raspberry pi pico闪存空间清除为空。
+- [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE对Pico的支持。
+- [Pico-Stub](https://github.com/cpwood/Pico-Stub) - 从Visual Studio Code中对树莓派pico的python代码插入和自动补全。
+- [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) - Pimoroni Pico库和示例包含micropython 和C/C++支持。
 
 ## 资源
 
@@ -47,8 +48,8 @@ Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-start
 - [Closer Look at RP2040](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/) - A closer look at Raspberry Pi RP2040 programmable I/Os (PIOs).
 
 ### 书籍
-
 - [MicroPython Pico](https://hackspace.raspberrypi.org/books/micropython-pico) - 'Get Started With MicroPython on Raspberry Pi Pico'.
+
 
 ### 社区
 
