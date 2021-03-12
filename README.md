@@ -14,21 +14,20 @@ Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-start
 
 ## 文档
 
-- [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) - The official Pico getting started guide (PDF).
-- [Pico SDK C/C++](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) - The official Pico C/C++ SDK documentation (PDF).
-- [Pico SDK MicroPython](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf) - The official MicroPython SDK documentation (PDF).
-- [Pico Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) - The official 'API level Doxygen documentation for the Raspberry Pi Pico'. Available as a micro-site.
-- [Pinout Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf) - The official Pico pinout diagram (PDF).
-- [Fritzing Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-Fritzing.fzpz) - The official Pico Fritzing diagram. WARNING: Will attempt to download file from Raspberry Pi website (.fzpz file).
-- [Design Files](https://datasheets.raspberrypi.org/pico/RPi-Pico-R3-PUBLIC-20200119.zip) - The official Pico design files (.zip file). WARNING: Will attempt to download file from Raspberry Pi website.
-- [Pico Datasheet](https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf) - The official Pico datasheet (PDF).
-- [RP2040 Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - The official RP2040 datasheet (PDF).
-- [Hardware Design](https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf) - The official hardware design with RP2040 (PDF).
+- [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) - 官方Pico入门指南。
+- [Pico SDK C/C++](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) - Pico SDK C / C ++-官方Pico C/C++ SDK文档。
+- [Pico SDK MicroPython](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf) - Pico SDK MicroPython-官方MicroPython SDK文档。
+- [Pico Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) - Pico Doxygen-官方的"Raspberry Pi Pico的API级别Doxygen文档"。- [Pinout Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf) - 树莓派pico官方引脚图。
+- [Fritzing Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-Fritzing.fzpz) - Fritzing图表-官方的Pico Fritzing图表。
+- [Design Files](https://datasheets.raspberrypi.org/pico/RPi-Pico-R3-PUBLIC-20200119.zip) - 设计文件-官方的Pico硬件设计文件。
+- [Pico Datasheet](https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf) - Pico数据手册-官方Pico数据手册。
+- [RP2040 Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - RP2040芯片数据-官方RP2040芯片数据手册。
+- [Hardware Design](https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf) - 硬件设计-RP2040的官方硬件设计参考手册。
 
 ## 软件与工具
 
-- [Pico Examples](https://github.com/raspberrypi/pico-examples) - Raspberry Pi Pico SDK examples.
-- [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) - Raspberry Pi Pico MicroPython examples.
+- [Pico 示例](https://github.com/raspberrypi/pico-examples) - Raspberry Pi Pico SDK examples.
+- [Pico MicroPython示例](https://github.com/raspberrypi/pico-micropython-examples) - Raspberry Pi Pico MicroPython examples.
 - [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) - Official Raspberry Pi Pico SDK repository.
 - [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) - A BASH script for setting up the Pico C++ toolchain on your device.
 - [Picotool](https://github.com/raspberrypi/picotool) - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.' 
