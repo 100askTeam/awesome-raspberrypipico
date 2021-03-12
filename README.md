@@ -1,10 +1,9 @@
 # Raspberry Pi Pico 资源列表
 
 Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) 是 具有灵活数字接口的低成本，高性能微控制器板。
-
 ## 目录
 - [文档](#文档)
-- [软件/工具](#软件-工具)
+- [软件/工具](#软件与工具)
 - [资源](#资源)
     - [博客](#博客)
     - [书籍](#书籍)
@@ -26,7 +25,7 @@ Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-start
 - [RP2040 Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - The official RP2040 datasheet (PDF).
 - [Hardware Design](https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf) - The official hardware design with RP2040 (PDF).
 
-## 软件/工具
+## 软件与工具
 
 - [Pico Examples](https://github.com/raspberrypi/pico-examples) - Raspberry Pi Pico SDK examples.
 - [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) - Raspberry Pi Pico MicroPython examples.
