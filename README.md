@@ -62,7 +62,8 @@ Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-start
 - [morse4pico](https://github.com/slouchd/morse4pico) - 用于Raspberry Pi Pico的MicroPython中非常简单的摩尔斯电码脚本。
 - [picoLCD](https://github.com/zadi15/picoLCD) - picoLCD是使Raspberry Pi Pico上的基于HD44780的LCD屏幕更方便接口功能的集合。
 - [Balloon Tracking](http://www.daveakerman.com/?p=2737) Raspberry Pi Pico天气气球跟踪设备。代码在 https://github.com/daveake/pico-tracker
-- [Pico Snake](https://github.com/Tohaker/pico-snake) - 在Pimoroni Pico Explorer中运行的Raspberry Pi Pico蛇。- [Annoying Book Mark](https://github.com/rhipps/Annoying-Book-Mark) - 一个用于计算自您上次打开书以来经过的时间书签。
+- [Pico Snake](https://github.com/Tohaker/pico-snake) - 在Pimoroni Pico Explorer中运行的Raspberry Pi Pico蛇。
+- [Annoying Book Mark](https://github.com/rhipps/Annoying-Book-Mark) - 一个用于计算自您上次打开书以来经过的时间书签。
 
 ### 教程
 
